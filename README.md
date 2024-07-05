@@ -19,7 +19,7 @@ Santander 2024 - Fundamentos de IA para Devs
 
 Projeto com o objetivo de gerar um artigo técnico com as facilidades das ferramentas de IA. 
 
-<a href="https://github.com/willsreis/Fundamentos-de-IA-DIO/blob/main/arquivos/ebook_js.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="[https://github.com/willsreis/Fundamentos-de-IA-DIO/blob/main/arquivos/ebook_js.pdf](https://web.dio.me/articles/troubleshooting-de-memoria-no-linux-dicas-para-iniciantes?back=%2Farticles&open-modal=true&page=1&order=oldest)" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
