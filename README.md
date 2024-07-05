@@ -24,7 +24,7 @@ Projeto com o objetivo de gerar um artigo técnico com as facilidades das ferram
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [Designer Microsoft ](https://gencraft.com/generate)
+- [Designer Microsoft ](https://designer.microsoft.com/)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
 
